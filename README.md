@@ -14,7 +14,6 @@ The repository contains the following folders:
 
 exercises: This folder contains a set of exercises that cover various aspects of C++ programming. Each exercise includes a README file that describes the task and the requirements.
 examples: This folder contains a set of code examples that demonstrate how to use various features of C++ programming.
-solutions: This folder contains solutions to the exercises in the exercises folder. It's recommended to try the exercises on your own before looking at the solutions.
 
 #### Contributing
 
