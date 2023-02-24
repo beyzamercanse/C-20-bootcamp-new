@@ -5,9 +5,9 @@ This repository is intended to be used as a learning resource for individuals wh
 #### Getting Started
 To get started, clone the repository to your local machine by running the following command:
 
-git clone https://github.com/yourusername/cplusplus-bootcamp.git
+[] git clone https://github.com/yourusername/cplusplus-bootcamp.git
 
-If you don't have Git installed, you can download it from https://git-scm.com/downloads.
+[] If you don't have Git installed, you can download it from https://git-scm.com/downloads.
 
 #### Contents
 The repository contains the following folders:
